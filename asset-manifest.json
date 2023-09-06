@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jokes-clone/static/css/main.3d74b2b1.css",
+    "main.js": "/jokes-clone/static/js/main.c46ddde4.js",
+    "index.html": "/jokes-clone/index.html",
+    "main.3d74b2b1.css.map": "/jokes-clone/static/css/main.3d74b2b1.css.map",
+    "main.c46ddde4.js.map": "/jokes-clone/static/js/main.c46ddde4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d74b2b1.css",
+    "static/js/main.c46ddde4.js"
+  ]
+}
