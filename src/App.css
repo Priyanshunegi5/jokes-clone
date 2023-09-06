@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+    background:linear-gradient(90deg,#4286f4,#373b44)
+}
+.card{
+    background: linear-gradient(90deg,#2c5364,#203a43,#0f2027)}
